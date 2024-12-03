@@ -1,0 +1,11 @@
+{
+  "name": "hr-analytics-main",
+  "version": "1.0.0",
+  "description": "This project involves creating an interactive dashboard to analyze employee attrition data. The dashboard provides insightful visualizations and allows users to explore data with customized filters, slicers, and drill-down capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
